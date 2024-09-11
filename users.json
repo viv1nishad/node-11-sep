@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Kelli",
+    "last_name": "Laffan",
+    "email": "klaffan0@fema.gov",
+    "gender": "Female",
+    "ip_address": "150.183.54.42"
+  },
+  {
+    "id": 2,
+    "first_name": "Bunny",
+    "last_name": "Sowley",
+    "email": "bsowley1@usgs.gov",
+    "gender": "Female",
+    "ip_address": "74.242.89.18"
+  },
+  {
+    "id": 3,
+    "first_name": "Stevy",
+    "last_name": "Ainsworth",
+    "email": "sainsworth2@flavors.me",
+    "gender": "Male",
+    "ip_address": "251.119.76.144"
+  },
+  {
+    "id": 4,
+    "first_name": "Antony",
+    "last_name": "Benting",
+    "email": "abenting3@unicef.org",
+    "gender": "Male",
+    "ip_address": "208.183.207.192"
+  },
+  {
+    "id": 5,
+    "first_name": "Jemima",
+    "last_name": "Luker",
+    "email": "jluker4@bloglovin.com",
+    "gender": "Female",
+    "ip_address": "23.99.113.165"
+  },
+  {
+    "id": 6,
+    "first_name": "Garvy",
+    "last_name": "Grishanin",
+    "email": "ggrishanin5@washingtonpost.com",
+    "gender": "Male",
+    "ip_address": "222.104.117.125"
+  },
+  {
+    "id": 7,
+    "first_name": "Karrah",
+    "last_name": "Ricioppo",
+    "email": "kricioppo6@g.co",
+    "gender": "Female",
+    "ip_address": "101.195.207.129"
+  },
+  {
+    "id": 8,
+    "first_name": "Parnell",
+    "last_name": "Treske",
+    "email": "ptreske7@opensource.org",
+    "gender": "Male",
+    "ip_address": "153.153.69.12"
+  },
+  {
+    "id": 9,
+    "first_name": "Cello",
+    "last_name": "Youthed",
+    "email": "cyouthed8@state.tx.us",
+    "gender": "Male",
+    "ip_address": "108.78.170.111"
+  },
+  {
+    "id": 10,
+    "first_name": "Iolanthe",
+    "last_name": "Enderle",
+    "email": "ienderle9@amazon.com",
+    "gender": "Female",
+    "ip_address": "252.126.8.11"
+  }
+]
